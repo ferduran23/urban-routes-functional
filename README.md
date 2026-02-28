@@ -17,7 +17,7 @@ Performed functional testing for an urban transportation application.
 
 - Participated in a simulated Agile collaborative environment, completing sprint deliverables while applying QA best practices.
 
-**Date:** November 2024  
-**Tools Used:** Figma, Jira, Chrome
+**Date:** January 2026  
+**Tools Used:** Figma, Jira, Chrome, Firefox
 
 ### [Link](https://docs.google.com/spreadsheets/d/103HwMyXTe_ikAsHfnz1e4LCKbwvc0wIj/edit?usp=sharing&ouid=108802788674374862865&rtpof=true&sd=true).
