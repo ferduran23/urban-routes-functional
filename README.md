@@ -20,6 +20,10 @@ Performed functional testing for an urban transportation application.
 **Date:** January 2026  
 **Tools Used:** Figma, Jira, Chrome, Firefox
 
+[Figma](https://media.discordapp.net/attachments/1468767353025073216/1477435928703139861/image.png?ex=69a4c0ee&is=69a36f6e&hm=fea782879dced3890709c2c71402183854d327e85bcc6de24059ff7337b0a34e&=&format=webp&quality=lossless&width=1229&height=683)
+
+[Urban Routes](https://media.discordapp.net/attachments/1468767353025073216/1477436187873640488/image.png?ex=69a4c12c&is=69a36fac&hm=8b2d4941be625315826ef2ef548cec044084727a57df3ee28a25fdd715653831&=&format=webp&quality=lossless&width=1341&height=683)
+
 ### [Link](https://docs.google.com/spreadsheets/d/103HwMyXTe_ikAsHfnz1e4LCKbwvc0wIj/edit?usp=sharing&ouid=108802788674374862865&rtpof=true&sd=true).
 
 ## Conclusion
